@@ -1,7 +1,19 @@
 import * as React from 'react';
 
 export default function Home() {
-  return <h1>CC2 Front Console</h1>;
+  return (
+    <>
+      <div>home</div>
+      <div>home</div>
+      <div>home</div>
+      <div>home</div>
+      <div>home</div>
+      <div>home</div>
+      <div>home</div>
+      <div>home</div>
+      <div>home</div>
+    </>
+  );
 }
 
 // export async function getServerSideProps() {
